@@ -1,0 +1,6 @@
+{
+    "enabled": false,
+    "PullInterval": "7200000",
+    "FullRestartOnIntervalPull": false,
+    "PullonStarts": true
+}
