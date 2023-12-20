@@ -1,0 +1,9 @@
+{
+    "CyntiaPluginCompat": "2",
+    "runners": {
+        "pluginChildExecute": {
+            "type": "js",
+            "execute": "[\"index.js\"]"
+        }
+    }
+}
